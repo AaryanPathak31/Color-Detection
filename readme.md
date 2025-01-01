@@ -53,6 +53,5 @@ python main.py
 - The program will access the webcam and begin detecting orange-colored objects in real-time.
 - To exit the program, press the q key.
 
-## License
-This project is licensed under the MIT License.
+
 
